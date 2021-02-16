@@ -1,4 +1,4 @@
-# Mon titre <h1>
+# Mon titre 
 ## **Liste de fruits** <h2>
 1.   orange :+1:
 2.   pomme :sparkles:
