@@ -1,7 +1,7 @@
 # Mon titre <h1>
 ## **Liste de fruits** <h2>
-1.   orange
-2.   pomme
+1.   orange :+1
+2.   pomme :sparkles:
 3.   banane
 4.   cerise
 5.   melon
