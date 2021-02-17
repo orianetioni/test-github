@@ -16,10 +16,15 @@
  
  
  
+
+
+### Sondage:
  - [x] aime-tu les pommes 
  - [x] aimes-tu les ananas
  
  
  
  
+  
+  
   ![Fruits](https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/How-to-store-fruit-to-keep-it-fresh-resized.jpg)
