@@ -14,4 +14,11 @@
  | Cerise        | Mangue          |
  | Fraise        | Letchi          |
  
-  ![Alt Text](https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/How-to-store-fruit-to-keep-it-fresh-resized.jpg)
+ 
+ 
+ -[x
+ 
+ 
+ 
+ 
+  ![Fruits](https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/How-to-store-fruit-to-keep-it-fresh-resized.jpg)
