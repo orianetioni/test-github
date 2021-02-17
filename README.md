@@ -16,7 +16,8 @@
  
  
  
- -[x
+ - [x] aime-tu les pommes 
+ - [x] aimes-tu les ananas
  
  
  
