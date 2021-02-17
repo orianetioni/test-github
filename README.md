@@ -18,7 +18,7 @@
  
 
 
-### Sondage: :+1: ou :thumbsdown :
+### Sondage: :+1: ou :thumbsdown:
  - [x] aime-tu les pommes 
  - [x] aimes-tu les ananas 
  
