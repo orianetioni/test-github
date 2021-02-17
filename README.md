@@ -6,6 +6,7 @@
 3.   banane :metal:
 4.   cerise
 5.   melon
+6.   banana 
 
 
 
